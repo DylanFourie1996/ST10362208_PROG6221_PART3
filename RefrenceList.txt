@@ -1,0 +1,33 @@
+﻿Abitbol, G. and Verdel, G. 2023. How to filter a collection when binding it to Items Source?, Stack Overflow. [Online]. Available at: https://stackoverflow.com/questions/16076453/how-to-filter-a-collection-when-binding-it-to-itemssource [Accessed: 14 July 2024]. 
+
+C# programming • C# intermediate level • C# course • C# tutorials • C# basics • learn C# • (pt. 1). 2022. YouTube video, added by Code Master. [Online]. Available at: https://www.youtube.com/watch?v=blkfqOYqAOs [Accessed: 14 July 2024]. 
+
+C# programming • C# intermediate level • C# course • C# tutorials • C# basics • learn C# • (pt. 2). 2022. YouTube video, added by Code Master. [Online]. Available at: https://www.youtube.com/watch?v=QLNDrYgk2lk [Accessed: 14 July 2024]. 
+
+Data filtering in a list view [WPF]. 2022. YouTube video, added by Tactic Devs. [Online]. Available at: https://www.youtube.com/watch?v=Es8pn5UvqK0 [Accessed: 14 July 2024]. 
+
+
+De George, A. and Ryan, K. 2023 How to display a message box - WPF .NET, Microsoft Learn. [Online]. Available at: https://learn.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-8.0 [Accessed: 14 July 2024]. 
+
+
+Delegates in C# - a practical demonstration, including action and Func. 2018. YouTube video, added by IAmTimCorey. [Online]. Available at: https://www.youtube.com/watch?v=R8Blt5c-Vi4 [Accessed: 14 July 2024]. 
+
+
+GeeksforGeeks. 2019. How to find the length of an array in C#. [Online]. Available at: https://www.geeksforgeeks.org/how-to-find-the-length-of-an-array-in-c-sharp/ [Accessed: 13 July 2024]. 
+
+
+Intro to WPF: Learn the basics and best practices of WPF for C# (2017) YouTube video, added by  IAmTimCorey. [Online]. Available at: https://www.youtube.com/watch?v=gSfMNjWNoX0 [Accessed: 14 July 2024]. 
+
+ 
+Mangal, K. 2019. C#: How to change foreground color of text in console, GeeksforGeeks. [Online].  Available at: https://www.geeksforgeeks.org/c-sharp-how-to-change-foreground-color-of-text-in-console/ [Accessed: 13 July 2024]. 
+ 
+Swiniarski, S. and Poczekaj, N. 2022. C#: Arrays: clear(), Codecademy. [Online].  Available at: https://www.codecademy.com/resources/docs/c-sharp/arrays/clear [Accessed: 14 July 2024]. 
+ 
+Tutorials Teacher. [s.a.]. C# list collection. [Online]. Available at: https://www.tutorialsteacher.com/csharp/csharp-list#:~:text=C%23%20%2D%20List,Collections [Accessed: 14 July 2024]. 
+
+
+W3resource. 2024. C# program: Calculate the average of integers in an array. [Online]. Available at: https://www.w3resource.com/csharp-exercises/exception-handling/csharp-exception-handling-exercise-5.php [Accessed: 14 July 2024].. 
+ 
+W3Schools [s.a.]. C# Multidimensional Arrays, W3Schools. [Online]. Available at: https://www.w3schools.com/cs/cs_arrays_multi.php [Accessed: 14 July 2024]. 
+
+

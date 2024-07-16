@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3_MarkupCompile.cache
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.g.resources
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.Properties.Resources.resources
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\bin\Debug\ST10362208_PROG6221_PART3.exe.config
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\bin\Debug\ST10362208_PROG6221_PART3.exe
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\bin\Debug\ST10362208_PROG6221_PART3.pdb
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.exe
+C:\Users\USER\source\repos\ST10362208_PROG6221_PART3\obj\Debug\ST10362208_PROG6221_PART3.pdb

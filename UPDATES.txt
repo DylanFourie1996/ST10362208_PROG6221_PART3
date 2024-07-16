@@ -1,0 +1,34 @@
+﻿Update Report: Changes and Implementations
+
+1. Refactored Code Structure:
+Old: The application previously had all logic embedded within MainWindow.xaml.cs, resulting in a monolithic structure.
+New: Introduced separate classes and methods for better organization and maintainability. Added CaptureRecipe, RecipeFilter, and DeleteFunctions classes to encapsulate related functionalities.
+
+2. Event Handling for Calories Exceed:
+Old: No explicit handling for notifying when total calories exceed 300.
+New: Implemented CaloriesExceedsDelegate and CaloriesExceedsEvent in MainWindow to display a warning message when total calories exceed the limit.
+
+3. Recipe Capture and Storage:
+Old: Direct handling of recipe data within event handlers like AddRecipe_Click and AddDetails_Click.
+New: Introduced CaptureRecipe class to manage recipe data storage (Names, Instructions, Ingredients, Units, IngredientCalories, IngredientFoodGroups, TotalCalories). Methods like CaptureRecipeInformation now encapsulate the logic for adding, updating, and calculating total calories.
+
+4. Recipe Filtering:
+Old: No explicit recipe filtering capability.
+New: Added RecipeFilter class with methods FilterRecipes and GetAllRecipes to filter recipes based on name and food group, enhancing the application's search functionality.
+
+5. Improved UI Interaction:
+Old: Limited UI updates after data changes, requiring manual refreshes.
+New: Implemented RefreshRecipeList method to update RecipeListBox dynamically after adding, updating, or deleting recipes, enhancing user interaction and feedback.
+
+6. Modular Error Handling:
+Old: Limited error checking and validation for user inputs.
+New: Enhanced input validation in methods like AddRecipe_Click, AddDetails_Click, and UpdateRecipe_Click to ensure numeric inputs for quantities and calories, improving user experience and data integrity.
+
+
+7. Clearer Separation of Concerns:
+Old: Mixed UI logic (event handlers) with data management and manipulation.
+New: Separated concerns more clearly by moving data operations into dedicated classes (CaptureRecipe, RecipeFilter, DeleteFunctions), promoting cleaner code architecture and easier future expansions.
+
+8. Enhanced User Feedback:
+Old: Limited user feedback on actions like recipe additions, updates, or deletions.
+New: Added informative message boxes (MessageBox.Show) to provide feedback on successful operations, errors in inputs, or warnings like exceeding calorie limits, improving usability and user satisfaction.
